@@ -1,0 +1,42 @@
+name: Illume
+tagline: A health companion that connects wearable, meal, workout and lab data
+description: >-
+  Illume brings data from wearables, meals, workouts and lab results into one
+  place. Its text-based companion answers questions using that context and
+  points out patterns across the data. The company is inviting people to a
+  private beta through its website.
+problem: Health information is scattered across devices, tests and tracking apps.
+audience:
+  - People who track their health with wearables or lab tests
+website: https://www.illumelabs.ai/
+access:
+  - kind: waitlist
+    url: https://www.illumelabs.ai/
+categories:
+  - health
+  - ai-and-agents
+stage: prelaunch
+pricing:
+  model: unknown
+company:
+  name: Illume Labs
+  relationship: independent
+location:
+  country: US
+  city: San Francisco
+founded:
+  precision: year
+  value: "2026"
+platforms:
+  - web
+links:
+  - kind: source
+    url: https://www.ycombinator.com/companies/illume-labs
+logo:
+  path: logo.png
+  alt: Illume's concentric rounded white and pale-blue rings on a dark square
+sources:
+  - url: https://www.illumelabs.ai/
+    title: Illume official website
+  - url: https://www.ycombinator.com/companies/illume-labs
+    title: Illume Labs on Y Combinator
